@@ -1,0 +1,8 @@
+[execute]
+Action=enableKeySupport
+Enable=True
+next=
+
+
+; Der Tastenpatch ist geistiges Eigentum von Ineluki (Dominik Wondrousch)
+; Demo erstellt von Gekiganger

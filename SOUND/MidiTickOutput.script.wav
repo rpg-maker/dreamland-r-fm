@@ -1,0 +1,8 @@
+[execute]
+Action=MidiTickFunction
+Command=output
+next=
+
+
+; Der Tastenpatch ist geistiges Eigentum von Ineluki (Dominik Wondrousch)
+; Demo erstellt von Gekiganger
